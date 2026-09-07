@@ -1,0 +1,19 @@
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Temporary chart outputs
+chart_temp.html
+
+# Local environment / API Key storage
+.env
+
+# IDE settings
+.vscode/
+.idea/
